@@ -1,0 +1,10 @@
+title: Rajneesh Rai
+email: rajneeshrai83@yahoo.in
+description: >- 
+  Personal site of Rajneesh Rai showcasing portfolio, blogs, and contact information.
+baseurl: ""
+url: "https://rajneeshrai.github.io"
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
