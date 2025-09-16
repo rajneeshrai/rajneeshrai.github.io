@@ -2,6 +2,7 @@
 layout: page
 title: Blogs
 permalink: /blog/
+order: 3
 ---
 
 # Technical Blogs

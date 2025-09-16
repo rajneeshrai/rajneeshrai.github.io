@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Welcome
+order: 1
 ---
 
 # Welcome to My Personal Site

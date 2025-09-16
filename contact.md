@@ -2,8 +2,13 @@
 layout: page
 title: Contact Me
 permalink: /contact/
+order: 5
 ---
 
-# Contact Me
+# 📫 Connect with Me
 
-Feel free to reach out via email or connect with me on LinkedIn...
+- **Email:** rajneeshrai83@yahoo.in
+- **LinkedIn:** [rajneeshrai](https://www.linkedin.com/in/rajneeshrai)
+- **GitHub:** [rajneeshrai](https://github.com/rajneeshrai)
+
+---
